@@ -2,7 +2,6 @@ pragma solidity 0.5.1;
 pragma experimental ABIEncoderV2;
 
 // SPDX-License-Identifier: CC BY-NC-ND 4.0 International
-// Legal: https://continuousindex.org/docs#legal
 
 
 //----------------------------------------------------------------------------
@@ -255,16 +254,6 @@ contract ERC20 is IERC20, Master {
 //----------------------------------------------------------------------------
 
 contract CiContract is ERC20{
-
-    //
-    // All Ci's protocol activity and data is totally transparent and public. Everyone can call it for free by contract public functions or from Ci's website monitor.
-    // Neither the Ci's contract nor the Ci's website collects personal data of any kind. Ci has no centralized databases of any kind anywhere. Every data is managed by the smart contract.     
-    // For each Ci purchase, the price, quantity and time are recorded in the input of blockchain public transaction.
-    // Anyone can calculate the price of Ci at any moment in time. (see Ci's website DOCS & DAPI for more info)
-    // Ci protocol can be operated in a fully decentralized manner from public source DAPP (download from Continuous index GitHub)
-    //
-    // Ci - The Continuous Estable Coin protocol - 2021 - https://continuousindex.org
-    //
     
 	//The Ci TimeStamp Initial Date ///////////////////////////////////////////////////////
     uint public CiInitDate = 1642888930; //Sat Jan 22 2022 22:02:10 GMT+0000 //22:02:10 22/01/2022	
