@@ -1,7 +1,7 @@
 # Ci-Contract
 
 Continuous index Protocol and Ci cryptocurrency Solidity smart contracts<br /><br />
-Networks and Ci DApp: https://continuousindex.org/DApp <br /><br />
+Ethereum networks and Ci DEX DApp servers: https://continuousindex.org/DApp <br /><br />
 
 
 # Version note
