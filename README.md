@@ -7,7 +7,7 @@ For Ethereum and EVM compatible networks <br /><br />
 
 <PPS/> Protected Public Source License<br />
 © Protected by the 4.0 "CC" or Creative Commons license (CC BY-NC-ND 4.0)<br />
-Created by Hermes Ateneo (hermesateneo#gmail.com)<br /><br />
+Created for freedom by Hermes Ateneo (hermesateneo#gmail.com)<br /><br />
 
 
 
