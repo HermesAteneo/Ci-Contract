@@ -362,30 +362,28 @@ contract CiProtocol is ERC20, CiStatistics{
     // Ci's coins prices depends on the UNIX Time-stamp of GMT (Greenwich Mean Time) or Coordinated Universal Time or UTC+0. 
     // It is shielded and protected against whales, robots or AI price manipulation.
     // Anyone can calculate the price of a Ci Coin at any moment in time calling the contract CurrentCoinPrice() function. (see DOCS for more info)
-    
+    //
     //
     // Continuousindex.org project files are IPFS hosted but the centralized domain could disappear, be hacked or censored but 
     // the solidity Ci's protocol contracts can be operate in a fully decentralized manner with Metamask from the public IPFS site via continuousindex.crypto 
     // or
     // downloading original Ci-DEx files from the PPS (Protected Public Source) Ci-Dex: https://github.com/ContinuousIndex 
     // and operate it decentralized with Metamask from a local host, uploading to IPFS net or Sia-SkyNet or whatever.
-    
+    //
     //
     // Neither the Ci's contract nor the Ci's websites collects personal data of any kind. 
     // Ci has no centralized databases of any kind anywhere. // All data (address, balance, etc..) is managed by the smart contract.     
     // For each Ci operation, the hash, price, quantity and time are recorded in the input of blockchain public transaction.
-
+    //
     //
     // Enjoy a new step in finance freedom!
     //
     // Ci - The Continuous Coins protocol - 2021 - https://continuousindex.org -  continuousindex.crypto
     //
-    
     //
     // Created for freedom by Hermes Ateneo (hermesateneo#gmail.com)
     // CC BY-NC-ND 4.0 International - <PPS/> Protected Public Source License 
     //
-    
     //*************************************************************************
     
 
