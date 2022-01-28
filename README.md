@@ -1,7 +1,7 @@
 # Ci-Contract
 
-Continuous index Protocol to manage continuous cryptocurrencies is an ERC-20 extended Solidity smart contract<br /><br />
-For Ethereum and EVM compatible networks <br /><br />
+Ci Protocol ERC-20 extended smart contract coded with Solidity  0.5.16 for an hypothetical cryptoasset over Ethereum blockchain<br /><br />
+V.1.1 - Audited
 
 # Version note
 
