@@ -5,12 +5,12 @@ For Ethereum and EVM compatible networks <br /><br />
 
 # Version note
 
-<PPS/> Protected Public Source License<br />
-© Protected by the 4.0 "CC" or Creative Commons license (CC BY-NC-ND 4.0)<br />
+&lt;PPS/&gt; Protected Public Source License<br />
+Protected by the 4.0 "CC" or Creative Commons license (CC BY-NC-ND 4.0)<br />
 Created for freedom by Hermes Ateneo (hermesateneo#gmail.com)<br /><br />
 
 
 
 # Legal and Licensing
 
-© All the codes of the Ci Protocol project (as well the original designs) are public but protected by the  4.0 "CC" or Creative Commons license (CC BY-NC-ND 4.0) and the <PPS/> Protected Public Source License. <br /><br />
+&lt;PPS/&gt; All the codes of the Ci Protocol project (as well the original designs) are public but protected by the  4.0 "CC" or Creative Commons license (CC BY-NC-ND 4.0) and the &lt;PPS/&gt; Protected Public Source License. <br /><br />
